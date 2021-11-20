@@ -1,0 +1,16 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "Contruir un paqute para node en el curso",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Nestor Gonzalez <nestor.ge222@gmail.com>",
+  "license": "MIT"
+}
