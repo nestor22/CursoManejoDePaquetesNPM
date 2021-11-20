@@ -14,7 +14,9 @@
   "author": "Nestor Gonzalez <nestor.ge222@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.29.1"
+    "json-server": "^0.15.0",
+    "moment": "^2.29.1",
+    "webpack": "^5.64.1"
   },
   "devDependencies": {
     "date-fns": "^2.26.0"
